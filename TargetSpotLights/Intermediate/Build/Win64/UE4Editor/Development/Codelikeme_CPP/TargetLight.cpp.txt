@@ -1,0 +1,16 @@
+D:\MyTrainings\TargetSpotLights\TargetSpotLights\Intermediate\Build\Win64\UE4Editor\Development\Codelikeme_CPP\Definitions.Codelikeme_CPP.h
+D:\MyTrainings\TargetSpotLights\TargetSpotLights\Source\Codelikeme_CPP\TargetLight.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/SpotLightComponent.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/PointLightComponent.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/LocalLightComponent.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+D:\Unreal Game Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponentBase.generated.h
+D:\Unreal Game Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponent.generated.h
+D:\Unreal Game Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalLightComponent.generated.h
+D:\Unreal Game Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PointLightComponent.generated.h
+D:\Unreal Game Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpotLightComponent.generated.h
+D:\MyTrainings\TargetSpotLights\TargetSpotLights\Intermediate\Build\Win64\UE4Editor\Inc\Codelikeme_CPP\TargetLight.generated.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+D:\Unreal Game Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl

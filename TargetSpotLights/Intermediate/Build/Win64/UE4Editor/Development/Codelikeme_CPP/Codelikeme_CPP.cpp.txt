@@ -1,0 +1,2 @@
+D:\MyTrainings\TargetSpotLights\TargetSpotLights\Intermediate\Build\Win64\UE4Editor\Development\Codelikeme_CPP\Definitions.Codelikeme_CPP.h
+D:\MyTrainings\TargetSpotLights\TargetSpotLights\Source\Codelikeme_CPP\Codelikeme_CPP.h

@@ -1,0 +1,3 @@
+D:\MyTrainings\TargetSpotLights\TargetSpotLights\Intermediate\Build\Win64\UE4Editor\Development\Codelikeme_CPP\Definitions.Codelikeme_CPP.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Codelikeme_CPP",
+			"Path": "D:\\MyTrainings\\TargetSpotLights\\TargetSpotLights\\Source\\Codelikeme_CPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Codelikeme_CPPEditor",
+			"Path": "D:\\MyTrainings\\TargetSpotLights\\TargetSpotLights\\Source\\Codelikeme_CPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

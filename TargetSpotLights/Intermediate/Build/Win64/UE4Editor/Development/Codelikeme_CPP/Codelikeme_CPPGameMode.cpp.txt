@@ -1,0 +1,13 @@
+D:\MyTrainings\TargetSpotLights\TargetSpotLights\Intermediate\Build\Win64\UE4Editor\Development\Codelikeme_CPP\Definitions.Codelikeme_CPP.h
+D:\MyTrainings\TargetSpotLights\TargetSpotLights\Source\Codelikeme_CPP\Codelikeme_CPPGameMode.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Unreal Game Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Unreal Game Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\MyTrainings\TargetSpotLights\TargetSpotLights\Intermediate\Build\Win64\UE4Editor\Inc\Codelikeme_CPP\Codelikeme_CPPGameMode.generated.h
+D:\MyTrainings\TargetSpotLights\TargetSpotLights\Source\Codelikeme_CPP\Codelikeme_CPPCharacter.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Unreal Game Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Unreal Game Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Unreal Game Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\MyTrainings\TargetSpotLights\TargetSpotLights\Intermediate\Build\Win64\UE4Editor\Inc\Codelikeme_CPP\Codelikeme_CPPCharacter.generated.h
